@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Date_dialog_picker</string>
+    <string name = "Select_date_Button_Txt">Select Date</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name= "check_text">Check</string>
+</resources>

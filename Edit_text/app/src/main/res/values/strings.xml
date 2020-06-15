@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Edit_text</string>
+    <string name = "edit_text1">Enter Number 1</string>
+    <string name = "edit_text2">Enter Number 2</string>
+    <string name = "add_button"> + </string>
+    <string name = "sub_button"> - </string>
+
+
+
+
+
+</resources>

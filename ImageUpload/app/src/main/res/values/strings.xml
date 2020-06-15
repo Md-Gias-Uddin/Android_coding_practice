@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageUpload</string>
+    <string name = "c_toast_lay">You click on image</string>
+
+</resources>

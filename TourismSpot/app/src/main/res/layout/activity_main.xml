@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:weightSum="8"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_weight="1"
+        android:layout_width="400dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:text="@string/select_district_text"
+        android:textSize="30sp" />
+     <Button
+        android:layout_weight="1"
+        android:id="@+id/dh_button_id"
+        android:layout_width="400dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/dhaka_text" />
+
+        <Button
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/ctg_button_id"
+            android:layout_width="400dp"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="@string/ctg_text" />
+
+        <Button
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/syl_button_id"
+            android:layout_width="400dp"
+            android:layout_height="0dp"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="@string/syl_text" />
+
+        <Button
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/cum_button_id"
+            android:layout_width="400dp"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="@string/cum_text" />
+
+        <Button
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/raj_button_id"
+            android:layout_width="400dp"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="@string/raj_text" />
+
+        <Button
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/mym_button_id"
+            android:layout_width="400dp"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="@string/mym_text" />
+
+        <Button
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/khu_button_id"
+            android:layout_width="400dp"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="@string/khu_text" />
+
+
+</LinearLayout>

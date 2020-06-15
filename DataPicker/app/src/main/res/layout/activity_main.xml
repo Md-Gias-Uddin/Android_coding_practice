@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_margin="15dp"
+        android:paddingBottom="10dp"
+        android:layout_gravity="center"
+        android:id="@+id/currentDateTxtID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/currenDataText"
+         />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/selcetDateButtonId"
+        android:text="@string/Select_button_txt"
+        android:padding="10dp"
+        />
+    <DatePicker
+        android:layout_margin="15dp"
+        android:layout_gravity="center"
+        android:id="@+id/datepickerId"
+        android:padding="26dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+</LinearLayout>

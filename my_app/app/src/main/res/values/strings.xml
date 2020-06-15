@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">my_app</string>
+
+
+    <string-array name="country_Names">
+    <item>B1angladesh</item>
+    <item>2Pakistan</item>
+    <item>3India</item>
+    <item>4Nepal</item>
+    <item>5Bhutan</item>
+    <item>6Afghanistan</item>
+    <item>7Srilanka</item>
+    <item>8Malaysia</item>
+    <item>9China</item>
+    <item>10Qatar</item>
+    <item>11Egypt</item>
+    <item>12Brazil</item>
+    </string-array>
+
+    <string-array name="country_desc">
+    <item>1Bangladesh is a  country</item>
+    <item>2Pakistan is a  country</item>
+    <item>3India is a  country</item>
+    <item>4Nepal is a  country</item>
+    <item>5Bhutan vis a  country</item>
+    <item>6Afghanistan is a  country</item>
+    <item>7Sri Lanka is a  country</item>
+    <item>8Malaysia is a  country</item>
+    <item>9China is a  country</item>
+    <item>10Qatar is a  country</item>
+    <item>11Egypt is a  country</item>
+    <item>12Brazil is a  country</item>
+</string-array>
+
+</resources>

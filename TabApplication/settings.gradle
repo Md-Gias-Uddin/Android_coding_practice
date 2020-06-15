@@ -1,0 +1,2 @@
+rootProject.name='Tab Application'
+include ':app'

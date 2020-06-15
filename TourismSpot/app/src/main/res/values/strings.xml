@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TourismSpot</string>
+    <string name="submit_rate_b_text">Submit</string>
+    <string name="about_Text">
+        ---Design And Developed By---\n\nMd. Gias uddin\n\nComputer Science And engineering \n\nUniversity of Chittagong.
+    </string>
+    <string name="select_district_text">Select Division</string>
+    <string name="dhaka_text">Dhaka</string>
+    <string name="ctg_text">Chittagong</string>
+    <string name="syl_text">Sylhet</string>
+    <string name="cum_text">Cumilla</string>
+    <string name="mym_text">Mymensingh</string>
+    <string name="khu_text">Khulna</string>
+    <string name="raj_text">Rajshahi</string>
+
+</resources>

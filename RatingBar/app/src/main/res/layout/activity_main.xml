@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:padding="15dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RatingBar
+        android:id="@+id/ratingBarId"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:numStars="5"
+        android:stepSize="1"
+        android:rating="2"
+
+        />
+    <TextView
+        android:id="@+id/ratingTextViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:padding="10dp"
+        />
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/seeBarId"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:max="20"
+        android:thumbTint="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/seeBarTextViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:textSize="20sp" />
+    <Switch
+        android:id="@+id/switchId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wifi"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+
+        />
+
+</LinearLayout>

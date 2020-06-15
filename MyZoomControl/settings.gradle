@@ -1,0 +1,2 @@
+rootProject.name='MyZoomControl'
+include ':app'

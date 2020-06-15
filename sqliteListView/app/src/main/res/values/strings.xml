@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sqliteListView</string>
+    <string name = "tour_id_text">  টুর নং <font size ='10'>আপনার ভ্রমণ আইডি দেন </font></string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyGrid</string>
+    <string-array name="country_Names">
+        <item>Bangladesh</item>
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Afghanistan</item>
+        <item>Srilanka</item>
+        <item>Malaysia</item>
+        <item>China</item>
+        <item>Qatar</item>
+    </string-array>
+
+
+    <string-array name="population_array">
+        <item>10 Millions</item>
+        <item>13 Millions</item>
+        <item>10 Millions</item>
+        <item>102 Millions</item>
+        <item>5 Millions</item>
+        <item>30 Millions</item>
+        <item>10 Millions</item>
+        <item>40 Millions</item>
+        <item>100 Millions</item>
+        <item>2 Millions</item>
+    </string-array>
+
+</resources>

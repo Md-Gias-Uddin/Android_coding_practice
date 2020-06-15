@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyGrid</string>
+    <string-array name="country_Names">
+        <item>Bangladesh</item>
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Afghanistan</item>
+        <item>Srilanka</item>
+        <item>Malaysia</item>
+        <item>China</item>
+        <item>Qatar</item>
+
+
+    </string-array>
+</resources>

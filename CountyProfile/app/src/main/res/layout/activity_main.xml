@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:weightSum="2"
+    android:background="@drawable/ic_launcher_background"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_weight="0.2"
+        android:layout_height="0dp"
+        android:drawableLeft="@drawable/bird"
+        android:layout_width="match_parent"
+        android:id="@+id/bd_Id"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:text="@string/bd_button_text"
+        android:layout_gravity="center"
+        android:padding="1dp"
+        android:layout_margin="10dp"
+        />
+<Button
+        android:drawableLeft="@drawable/fun"
+        android:layout_width="match_parent"
+        android:layout_weight="0.2"
+        android:id="@+id/pak_Id"
+        android:textSize="20sp"
+        android:text="@string/pak_button_text"
+        android:layout_gravity="center"
+        android:textAllCaps="false"
+        android:padding="1dp"
+        android:layout_margin="10dp"
+        android:layout_height="0dp" />
+<Button
+        android:layout_weight="0.2"
+        android:drawableLeft="@drawable/top"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textAllCaps="false"
+        android:id="@+id/afg_Id"
+        android:textSize="20sp"
+        android:text="@string/afg_button_text"
+        android:layout_gravity="center"
+        android:padding="1dp"
+        android:layout_margin="10dp"
+        />
+
+</LinearLayout>

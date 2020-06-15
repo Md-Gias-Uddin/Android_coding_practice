@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataPicker</string>
+    <string name = "currenDataText">Current Date: </string>
+    <string name = "Select_button_txt">Select Date</string>
+</resources>

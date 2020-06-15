@@ -1,0 +1,2 @@
+rootProject.name='County Profile'
+include ':app'

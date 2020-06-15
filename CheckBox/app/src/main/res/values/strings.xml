@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name = "text_1">What do you want?</string>
+    <string name= "milk_text">Milk</string>
+    <string name= "water_text">Water</string>
+    <string name= "sugar_text">Sugar</string>
+    <string name ="check_button_Text"> Check </string>
+</resources>

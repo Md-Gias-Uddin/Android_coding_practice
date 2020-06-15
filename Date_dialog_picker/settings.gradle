@@ -1,0 +1,2 @@
+rootProject.name='Date_dialog_picker'
+include ':app'
